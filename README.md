@@ -1,4 +1,4 @@
-# EECS348
+# Jana Frady's EECS348 Labs
 
 
 [Lab 01: Git and Github](https://github.com/janafrady/EECS348/tree/main/Lab%2001%3A%20Git%20and%20Github)
