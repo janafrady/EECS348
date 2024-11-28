@@ -20,3 +20,5 @@
 [Lab 09: UML class diagrams](https://github.com/janafrady/EECS348/tree/main/Lab%2009%3A%20UML%20class%20diagram)
 
 [Lab 10: Software Testing](https://github.com/janafrady/EECS348/tree/main/Lab%2010%3A%20Software%20testing)
+
+[EC Lab: Extracting double-precision numbers from strings](https://github.com/janafrady/EECS348/tree/main/EC%20Lab%3A%20Extracting%20double-precision%20numbers%20from%20strings)
